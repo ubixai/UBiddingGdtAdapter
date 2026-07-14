@@ -1,0 +1,6 @@
+framework module UBiddingGdtAdapter {
+  umbrella header "UBiddingGdtAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
