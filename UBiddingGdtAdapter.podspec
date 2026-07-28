@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiddingGdtAdapter'
-  s.version          = '4.15.90.2'
+  s.version          = '4.15.90.3'
   s.summary          = 'UBiddingGdtAdapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   s.author           = { 'zhugq' => 'guoqiang.zhu@ubixai.com' }
