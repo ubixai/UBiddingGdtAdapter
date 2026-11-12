@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiddingGdtAdapter'
-  s.version          = '4.16.11.1'
+  s.version          = '4.16.12.0'
   s.summary          = 'UBiddingGdtAdapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   s.author           = { 'zhugq' => 'guoqiang.zhu@ubixai.com' }
@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.vendored_frameworks = 'UBiddingGdtAdapter.xcframework'
 
-  s.dependency 'GDTMobSDK', '4.16.11'
+  s.dependency 'GDTMobSDK', '4.16.12'
   s.dependency 'UBiddingAdSDK'
 end
